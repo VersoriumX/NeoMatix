@@ -4,9 +4,9 @@ name: CMake on multiple platforms
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "NeoMatix" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "NeoMatix" ]
 
 jobs:
   build:
