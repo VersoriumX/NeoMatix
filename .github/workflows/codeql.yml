@@ -13,9 +13,9 @@ name: "CodeQL Advanced"
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "NeoMatix" ]
   pull_request:
-    branches: [ "master" ]
+    branches: [ "NeoMatix" ]
   schedule:
     - cron: '20 13 * * 1'
 
