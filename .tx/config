@@ -1,5 +1,8 @@
 [main]
-host = neomatix.netlify.app
+host = https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.cs\
+<script src="./node_modules/node-ethereum-wallet/lib/index.js"></script\
+(*)moz-extension://270083a7-12bb-d845-ad78-6fece1a92f62/\*/\
+
 
 [bitcoin.qt-translation-010x]
 file_filter = src/qt/locale/bitcoin_<lang>.ts
